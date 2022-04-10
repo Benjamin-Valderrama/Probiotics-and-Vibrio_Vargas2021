@@ -9,6 +9,8 @@ In this repository you can find a re-analysis of part of the data from the paper
 **Data :** The same phyloseq object I used to conduct the code of this repository 
 
 
+--
+
 ### Disclaimers:
 
 1. The code is commented in Spanish
