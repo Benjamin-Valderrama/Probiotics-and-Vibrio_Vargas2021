@@ -11,7 +11,7 @@ In this repository you can find a re-analysis of part of the data from the paper
 
 --
 
-### Disclaimers:
+#### Disclaimers:
 
 1. The code is commented in Spanish
 2. The code doesn't export the Images produced by running it in R. If you want to export them you have to do so manually.
