@@ -2,5 +2,6 @@ Re-Analysis of part of the data from the paper ["Probiotic Yeasts and Vibrio ang
 
 In this repository you can find:
 
-> **Code :** Code used to produce figures similar to the ones you can find in the paper
-> **Data :** The same phyloseq object I used to conduct the code of this repository
+**Code :** Code used to produce figures similar to the ones you can find in the paper
+
+**Data :** The same phyloseq object I used to conduct the code of this repository
