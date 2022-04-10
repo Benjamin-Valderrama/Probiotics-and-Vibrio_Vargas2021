@@ -6,7 +6,7 @@ In this repository you can find a re-analysis of part of the data from the Varga
 
 **Code :** Code[<sup>1</sup>](##-Foot-Notes) used to produce figures[<sup>2</sup>](##-Foot-Notes) similar to the ones you can find in the paper.
 
-**Data :** The same phyloseq object I used to conduct the code of this repository.
+**Data :** The same phyloseq object I used to produce the figures in the paper.
 
 ## Foot Notes:
 
