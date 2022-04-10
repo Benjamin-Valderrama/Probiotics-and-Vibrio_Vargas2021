@@ -4,16 +4,14 @@ In this repository you can find a re-analysis of part of the data from the paper
 
 ## In this repository you can find:
 
-**Code :** Code used to produce figures similar to the ones you can find in the paper
+**Code :** Code<sup>1</sup> used to produce figures<sup>2</sup> similar to the ones you can find in the paper.
 
-**Data :** The same phyloseq object I used to conduct the code of this repository 
+**Data :** The same phyloseq object I used to conduct the code of this repository.
 
+## Foot Notes:
 
---
+1. The code is commented in Spanish 
 
-#### Disclaimers:
-
-1. The code is commented in Spanish
 2. The code doesn't export the Images produced by running it in R. If you want to export them you have to do so manually.
 
 
